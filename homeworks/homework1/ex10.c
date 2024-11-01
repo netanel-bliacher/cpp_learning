@@ -17,6 +17,6 @@ int main(){
         }
         num = num / 10;
     }
-     printf("The number of odd digits%d\n", odd_counter);
+    printf("The number of odd digits: %d\n", odd_counter);
     return 0;
 }
